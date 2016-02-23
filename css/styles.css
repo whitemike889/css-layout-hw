@@ -1,0 +1,49 @@
+/* Styles go here */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F1F1F1;
+	color: #333;
+	font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.page-container {
+	max-width: 940px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	clear: left;
+}
+
+.col,
+.align-to-col {
+	padding: 20px;
+}
+
+.col {
+	float: left;
+}
+
+.col-1 { width: 10% }
+.col-2 { width: 20% }
+.col-3 { width: 30% }
+.col-4 { width: 40% }
+.col-5 { width: 50% }
+.col-6 { width: 60% }
+.col-7 { width: 70% }
+.col-8 { width: 80% }
+.col-9 { width: 90% }
+.col-10 { width: 100% }
+
+.gallery-entry {
+	width: 100%;
+}
+
+
+
+
+
